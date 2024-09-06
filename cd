@@ -1,0 +1,49 @@
+[33mcommit e560f1dcfe2af346ed6fb3ab2723115a7662ef46[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Julio Sanchez <Julioyoupr@outlook.com>
+Date:   Thu Sep 5 10:51:54 2024 -0500
+
+    ultimo cambio
+
+[1mdiff --git a/Untitled-1.txt b/Untitled-1.txt[m
+[1mindex a460ae3..23f9f16 100644[m
+[1m--- a/Untitled-1.txt[m
+[1m+++ b/Untitled-1.txt[m
+[36m@@ -6,4 +6,6 @@[m [msoy un hacker xd[m
+ xd soy buenisimo[m
+ [m
+ [m
+[31m-mas que nadie[m
+\ No newline at end of file[m
+[32m+[m[32mmas que nadie[m
+[32m+[m
+[32m+[m[32mHola perros[m
+[1mdiff --git a/ddasdasd b/ddasdasd[m
+[1mnew file mode 100644[m
+[1mindex 0000000..47fe457[m
+[1m--- /dev/null[m
+[1m+++ b/ddasdasd[m
+[36m@@ -0,0 +1,24 @@[m
+[32m+[m[32m[33mcommit a95551eaaab9774a79aec8ee623f4f1b4c107ebc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m[m
+[32m+[m[32mAuthor: Julio Sanchez <Julioyoupr@outlook.com>[m
+[32m+[m[32mDate:   Wed Sep 4 16:45:26 2024 -0500[m
+[32m+[m
+[32m+[m[32m    Es el tercer cambio[m
+[32m+[m[32m    sss[m
+[32m+[m
+[32m+[m[32m[33mcommit 869c4822375001f98067bb07b0c19b069c2c1137[m[m
+[32m+[m[32mAuthor: Julio Sanchez <Julioyoupr@outlook.com>[m
+[32m+[m[32mDate:   Wed Sep 4 16:44:48 2024 -0500[m
+[32m+[m
+[32m+[m[32m    2do cambio[m
+[32m+[m
+[32m+[m[32m[33mcommit 2a343c437e48cf9d7c0a45f3c2fa839203d74fae[m[m
+[32m+[m[32mAuthor: Julio Sanchez <Julioyoupr@outlook.com>[m
+[32m+[m[32mDate:   Wed Sep 4 16:39:38 2024 -0500[m
+[32m+[m
+[32m+[m[32m    1er cambio al archivo[m
+[32m+[m
+[32m+[m[32m[33mcommit eb6b2e2b25b9569edb736dd1b524fc16fadbaaf6[m[m
+[32m+[m[32mAuthor: Julio Sanchez <Julioyoupr@outlook.com>[m
+[32m+[m[32mDate:   Wed Sep 4 16:36:23 2024 -0500[m
+[32m+[m
+[32m+[m[32m    1er commit[m
